@@ -8,6 +8,8 @@ Prerequisites
 Python
 Flask
 Requests library
+
+
 Brief Procedure
 Install the required libraries.
 Get your OpenWeatherMap API key.
@@ -16,6 +18,8 @@ Open Postman and create a new request to http://127.0.0.1:5000/weather with the 
 Add a query param location with the value being the city and state (eg: Bengaluru, KA).
 Send the request and check the output.
 NOTE: You can check the accuracy of the retrieved weather data by OpenWeatherMap.
+
+
 Detailed explanation
 Run the python script in VScode
 In the terminal you can see the base url http://127.0.0.1:5000. When you click on this url, you will see 404 error.

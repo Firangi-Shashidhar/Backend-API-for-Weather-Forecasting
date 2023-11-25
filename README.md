@@ -8,6 +8,7 @@ Python
 Flask
 Requests library
 
+
 Brief Procedure:
 1.	Install the required libraries.
 2.	Get your OpenWeatherMap API key.
@@ -16,6 +17,8 @@ Brief Procedure:
 5.	Add a query param location with the value being the city and state (eg: Bengaluru, KA).
 6.	Send the request and check the output.
 7.	NOTE: You can check the accuracy of the retrieved weather data by OpenWeatherMap.
+
+   
 Detailed explanation:
 1.	Run the python script in VScode
 2.	In the terminal you can see the base url http://127.0.0.1:5000. When you click on this url, you will see 404 error.

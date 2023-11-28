@@ -3,7 +3,7 @@
 Weather API with Flask:
 This project implements a simple weather API using Flask, allowing users to retrieve current weather information for multiple locations. The weather data is fetched from the OpenWeatherMap API.
 
-Prerequisites:
+# Prerequisites:
 
 Python
 
@@ -12,7 +12,7 @@ Flask
 Requests library
 
 
-Brief Procedure:
+# Brief Procedure:
 1.	Install the required libraries.
 2.	Get your OpenWeatherMap API key.
 3.	Run the application.
@@ -22,7 +22,7 @@ Brief Procedure:
 7.	NOTE: You can check the accuracy of the retrieved weather data by OpenWeatherMap.
 
    
-Detailed explanation:
+# Detailed explanation:
 1.	Run the python script in VScode
 2.	In the terminal you can see the base url http://127.0.0.1:5000. When you click on this url, you will see 404 error.
 3.	Now go to your Postman workspace, set the request type to GET.
@@ -33,7 +33,7 @@ Detailed explanation:
 8.	Now you can see the json file.
 
 
-output Screenshots:
+# Output Screenshots:
 
 ![Screenshot 2023-11-28 122519](https://github.com/Firangi-Shashidhar/Backend-API-for-Weather-Forecasting/assets/136114163/d805d287-5d89-43b7-bc07-449c1721cc9a)
 
@@ -46,7 +46,7 @@ output Screenshots:
 ![Screenshot 2023-11-28 133055](https://github.com/Firangi-Shashidhar/Backend-API-for-Weather-Forecasting/assets/136114163/75acb6eb-eaa1-4002-b2c6-5499ab77e968)
 
 
-Additionals:
+# Additionals:
 
 
 This python script accepts multiple query parameters. The code includes the ability to retrieve weather information for multiple locations through the /weather endpoint.

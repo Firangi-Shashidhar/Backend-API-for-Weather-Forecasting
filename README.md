@@ -46,6 +46,14 @@ output Screenshots:
 ![Screenshot 2023-11-28 133055](https://github.com/Firangi-Shashidhar/Backend-API-for-Weather-Forecasting/assets/136114163/75acb6eb-eaa1-4002-b2c6-5499ab77e968)
 
 
+Additionals:
+This python script accepts multiple query parameters. The code includes the ability to retrieve weather information for multiple locations through the /weather endpoint.
+
+The code includes try-except blocks to catch and handle exceptions that may occur during API requests or data processing.
+
+Appropriate status codes are returned in the API responses, such as 400 for bad requests, 200 for response and 500 for internal server errors.
+
+
 
 
 

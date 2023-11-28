@@ -41,6 +41,9 @@ output Screenshots:
 
 ![Screenshot 2023-11-28 132730](https://github.com/Firangi-Shashidhar/Backend-API-for-Weather-Forecasting/assets/136114163/2492f765-9669-4055-b804-2e21748fa9b6)
 
+![Screenshot 2023-11-28 133043](https://github.com/Firangi-Shashidhar/Backend-API-for-Weather-Forecasting/assets/136114163/58115228-365a-4b47-96a9-8ffb13dd5e6c)
+
+
 
 
 

@@ -24,13 +24,13 @@ This project implements a simple weather API using Flask, allowing users to retr
    
 # Detailed explanation:
 1.	Run the python script in VScode
-2.	In the terminal you can see the base url http://127.0.0.1:5000. When you click on this url, you will see 404 error.
-3.	Now go to your Postman workspace, set the request type to GET.
-4.	Enter the URL for your Flask API endpoint i.e, http://127.0.0.1:5000/weather?.
-5.	Click on the “Params” tab. In the “Key” column, enter location. In the “Value” column, enter the city and state for which you want to retrieve the weather information.
-6.	Click the send button to make the request.
-7.	Now go back to the base url, inorder to fetch the weather data, you have to append the base url with the api endpoint i.e, http://127.0.0.1:5000/weather?location=city,state(eg: http://127.0.0.1:5000/weather?location=Bengaluru,Karnataka&location=Mysore, Karnataka).
-8.	Now you can see the json file.
+2.	In the terminal you can see the base url **http://127.0.0.1:5000.** When you click on this url, you will see 404 error.
+3.	Now go to your **Postman workspace**, set the request type to **GET**.
+4.	Enter the URL for your Flask API endpoint i.e, **http://127.0.0.1:5000/weather?**.
+5.	Click on the “Params” tab. In the “Key” column, enter **location**. In the “Value” column, enter the **city** and state for which you want to retrieve the weather information.
+6.	Click the send button to make the **request**.
+7.	Now go back to the base url, inorder to fetch the weather data, you have to append the base url with the api endpoint i.e, **http://127.0.0.1:5000/weather?location=city,state(eg: http://127.0.0.1:5000/weather?location=Bengaluru,Karnataka&location=Mysore, Karnataka).**
+8.	Now you can see the **json file**.
 
 
 # Output Screenshots:
@@ -49,11 +49,11 @@ This project implements a simple weather API using Flask, allowing users to retr
 # Additionals:
 
 
-This python script accepts multiple query parameters. The code includes the ability to retrieve weather information for multiple locations through the /weather endpoint.
+This python script accepts multiple query parameters. The code includes the ability to retrieve weather information for multiple locations through the **/weather** endpoint.
 
-The code includes try-except blocks to catch and handle exceptions that may occur during API requests or data processing.
+The code includes try-except blocks to catch and handle exceptions that may occur during **API requests** or data processing.
 
-Appropriate status codes are returned in the API responses, such as 400 for bad requests, 200 for response and 500 for internal server errors.
+Appropriate status codes are returned in the API responses, such as **400 for bad requests, 200 for response and 500 for internal server errors.**
 
 
 

@@ -32,7 +32,10 @@ Detailed explanation:
 7.	Now go back to the base url, inorder to fetch the weather data, you have to append the base url with the api endpoint i.e, http://127.0.0.1:5000/weather?location=city,state(eg: http://127.0.0.1:5000/weather?location=Bengaluru,Karnataka&location=Mysore, Karnataka).
 8.	Now you can see the json file.
 
-9.	![Screenshot 2023-11-28 122519](https://github.com/Firangi-Shashidhar/Backend-API-for-Weather-Forecasting/assets/136114163/d805d287-5d89-43b7-bc07-449c1721cc9a)
+
+output Screenshots:
+
+![Screenshot 2023-11-28 122519](https://github.com/Firangi-Shashidhar/Backend-API-for-Weather-Forecasting/assets/136114163/d805d287-5d89-43b7-bc07-449c1721cc9a)
 
 
 

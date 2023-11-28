@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 app = Flask(__name__)
-api_key = "5e2b250925b6337db4d077da5a6f4ee5" #API key
+api_key = "e3d669706a7e287bc208d01d472dbe55" #API key
 
 def kelvin_to_celsius(kelvin_temp):
     return kelvin_temp - 273.15

@@ -5,11 +5,11 @@ This project implements a simple weather API using Flask, allowing users to retr
 
 # Prerequisites:
 
-Python
+**Python**
 
-Flask
+**Flask**
 
-Requests library
+**Requests library**
 
 
 # Brief Procedure:

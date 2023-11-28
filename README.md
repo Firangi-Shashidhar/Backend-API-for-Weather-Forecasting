@@ -47,6 +47,8 @@ output Screenshots:
 
 
 Additionals:
+
+
 This python script accepts multiple query parameters. The code includes the ability to retrieve weather information for multiple locations through the /weather endpoint.
 
 The code includes try-except blocks to catch and handle exceptions that may occur during API requests or data processing.
